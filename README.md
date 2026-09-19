@@ -47,7 +47,7 @@ changes the dimensions of what you save, not how long the job takes.
 
 ## Getting started
 
-1. Download the zip from the releases page and unpack it anywhere you like.
+1. Download the [zip](https://github.com/stephenng0562-prog/ImageUpscaler/releases/latest) from the releases page and unpack it anywhere you like.
 2. Open the folder and run **ImageUpscaler.exe**.
 
 The first time it opens, the app asks whether you would like a shortcut on your
